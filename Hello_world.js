@@ -44,3 +44,6 @@ var createHelloWorld = function() {
 
 // Learning Outcome
 // ----> Function always return something, by default return undefined
+
+// Link of the Question ---- https://leetcode.com/problems/create-hello-world-function/?envType=study-plan-v2&envId=30-days-of-javascript
+// Link of the Editorial --- https://leetcode.com/problems/create-hello-world-function/editorial/?source=submission-ac
